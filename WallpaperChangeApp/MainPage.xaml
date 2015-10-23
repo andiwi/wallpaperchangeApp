@@ -1,0 +1,20 @@
+﻿<Page
+    x:Class="WallpaperChangeApp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WallpaperChangeApp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid>
+        <StackPanel x:Name="contentPanel" Margin="50, 50, 50, 50">
+            <TextBlock HorizontalAlignment="Center" Text="Daily.World" FontSize="36" Style="{StaticResource HeaderTextBlockStyle}"/>
+
+            <Button HorizontalAlignment="Center"  VerticalAlignment="Center" Name="activateWallpaperChangeBackgroundTaskBtn" Content="Activate BackgroundTask" Click="RegisterChangeWallpaperTask_click" RenderTransformOrigin="0.444,4.094" />
+            <Button HorizontalAlignment="Center"  VerticalAlignment="Center" Name="deactivateWallpaperChangeBackgroundTaskBtn" Content="Deactivate BackgroundTask" Click="UnregisterChangeWallpaperTask_click" RenderTransformOrigin="0.444,4.094" />
+            <TextBlock x:Name="Status" TextWrapping="Wrap" Text="Unregistered" HorizontalAlignment="Center" />
+            <TextBlock x:Name="Progress" TextWrapping="Wrap" Text="Progress: " HorizontalAlignment="Center" />
+        </StackPanel>
+    </Grid>
+</Page>

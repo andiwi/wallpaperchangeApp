@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZENBOOK</Machine>
+    <WindowsUser>Andreas</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|Win32</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>deb84ca3-cd9f-46b7-83ac-90aae7d2c580</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>A8511B63D2980F92250FD93E4EBF0F681CFF0F9D9408C219E34B46F976B2A752</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>deb84ca3-cd9f-46b7-83ac-90aae7d2c580_1.0.0.0_x86__2s7vg6pr19fbp</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>deb84ca3-cd9f-46b7-83ac-90aae7d2c580_2s7vg6pr19fbp!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>deb84ca3-cd9f-46b7-83ac-90aae7d2c580</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Andreas</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeApp\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-17T17:27:39.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeApp\WallpaperChangeApp.exe">
+      <PackagePath>WallpaperChangeApp.exe</PackagePath>
+      <Modified>2015-10-17T17:18:29.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeBackgroundTask\WallpaperChangeBackgroundTask.winmd">
+      <PackagePath>WallpaperChangeBackgroundTask.winmd</PackagePath>
+      <Modified>2015-09-15T17:24:41.558</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeBackgroundTask\WallpaperChangeBackgroundTask.dll">
+      <PackagePath>WallpaperChangeBackgroundTask.dll</PackagePath>
+      <Modified>2015-10-17T17:13:52.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeApp\WallpaperChangeApp.winmd">
+      <PackagePath>WallpaperChangeApp.winmd</PackagePath>
+      <Modified>2015-09-15T16:39:22.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <Modified>2015-09-25T09:57:19.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <Modified>2015-06-04T20:32:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeApp\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-17T17:27:36.961</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.23019.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.23019.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,12 @@
+﻿Build started 17.10.2015 18:27:36.
+     1>Project "C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\WallpaperChangeApp.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         WallpaperChangeApp.vcxproj -> C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeApp\WallpaperChangeApp.exe
+     1>C:\Program Files (x86)\MSBuild\Microsoft\VisualStudio\v14.0\AppxPackage\Microsoft.AppXPackage.Targets(2154,5): warning : APPX4001: Build property AppxBundlePlatforms is not explicitly set and is calculated based on currently building architecture. Use 'Create App Package' wizard or edit project file to set it.
+       _GenerateProjectPriFileCore:
+         C:\Program Files (x86)\Windows Kits\10\bin\x64\MakePri.exe New -ProjectRoot "C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\\" -ConfigXml Debug\priconfig.xml -OutputFile "C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\Debug\WallpaperChangeApp\resources.pri" -IndexName deb84ca3-cd9f-46b7-83ac-90aae7d2c580 -Verbose -Overwrite  
+     1>Done Building Project "C:\Users\Andreas\documents\visual studio 2015\Projects\WallpaperChangeApp\WallpaperChangeApp\WallpaperChangeApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.93
